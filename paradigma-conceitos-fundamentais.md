@@ -432,10 +432,3 @@ A estrutura de classes e objetos facilita:
 - HORSTMANN, C. *Conceitos de Computação com Java*. 2009.
 - JUNG, C. G. *Os Arquétipos e o Inconsciente Coletivo*. Vozes, 2000.
 
-## Ver Também
-
-- [Princípios de Classes em POO](#)
-- [SOLID Principles](https://en.wikipedia.org/wiki/SOLID)
-- [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
-- [UML - Unified Modeling Language](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
-- [Dependency Inversion Principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
